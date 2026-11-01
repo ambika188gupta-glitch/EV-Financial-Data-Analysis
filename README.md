@@ -1,4 +1,4 @@
-<img width="200" height="300" alt="EV Financial Data Analysis Infographic" src="https://github.com/user-attachments/assets/b74d555b-d04e-4ec4-a5ad-4fb10d2ac330" />
+<img width="8000" height="300" alt="EV Financial Data Analysis Infographic" src="https://github.com/user-attachments/assets/b74d555b-d04e-4ec4-a5ad-4fb10d2ac330" />
 
 
 ## About the Project
